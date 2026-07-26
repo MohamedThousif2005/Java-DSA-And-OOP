@@ -2,10 +2,12 @@
 
 # 🔍 Two Sum
 
-![LeetCode](https://img.shields.io/badge/LeetCode-001-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-001-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/problems/two-sum/)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 ![Topics](https://img.shields.io/badge/Topics-Array%20%7C%20Hash%20Map-blue?style=for-the-badge)
 ![Acceptance](https://img.shields.io/badge/Acceptance-~53%25-yellow?style=for-the-badge)
+
+🔗 [View on LeetCode](https://leetcode.com/problems/two-sum/)
 
 </div>
 
@@ -65,8 +67,7 @@ Explanation: nums[0] + nums[1] = 3 + 3 = 6
 
 <div align="center">
 
-**[⬅️ Back to Problems](../README.md)** &nbsp;|&nbsp; **[➡️ Next: Add Two Numbers](../002/README.md)**
-
+**[⬅️ Back to Problems](../README.md)**
 <br/>
 
 *Happy Coding! 🚀*
