@@ -1,50 +1,64 @@
-# 90. Subsets II
+<div align="center">
 
-**Difficulty:** 🟠 Medium
+# 🔍 Subsets II
 
-**Problem Link:** https://leetcode.com/problems/subsets-ii/
+[![LeetCode](https://img.shields.io/badge/LeetCode-090-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/problems/subsets-ii/)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-Array%20%7C%20Backtracking%20%7C%20Bit%20Manipulation-blue?style=for-the-badge)
+![Acceptance](https://img.shields.io/badge/Acceptance-~63%25-yellow?style=for-the-badge)
+
+🔗 [View on LeetCode](https://leetcode.com/problems/subsets-ii/)
+
+</div>
 
 ---
 
-## 📖 Problem Statement
+## 📋 Problem Statement
 
-Given an integer array `nums` that may contain duplicates, return **all possible subsets** (the power set).
+Given an integer array `nums` that **may contain duplicates**, return **all possible subsets** (the power set).
 
 The solution set **must not contain duplicate subsets**. Return the solution in **any order**.
 
 ---
 
-## 📝 Examples
+## 🧪 Examples
 
 ### Example 1
 
-**Input**
 ```text
-nums = [1,2,2]
+Input:  nums = [1,2,2]
+Output: [[],[1],[1,2],[1,2,2],[2],[2,2]]
 ```
-
-**Output**
-```text
-[[],[1],[2],[1,2],[2,2],[1,2,2]]
-```
-
----
 
 ### Example 2
 
-**Input**
 ```text
-nums = [0]
-```
-
-**Output**
-```text
-[[],[0]]
+Input:  nums = [0]
+Output: [[],[0]]
 ```
 
 ---
 
-## 📌 Constraints
+## ⚙️ Constraints
 
-- `1 <= nums.length <= 10`
-- `-10 <= nums[i] <= 10`
+| Constraint | Value |
+|---|---|
+| Array Length | `1 <= nums.length <= 10` |
+| Element Range | `-10 <= nums[i] <= 10` |
+
+---
+
+## 🏷️ Tags
+
+`Array` &nbsp;&nbsp; `Backtracking` &nbsp;&nbsp; `Bit Manipulation` &nbsp;&nbsp; `Medium`
+
+---
+
+<div align="center">
+
+**[⬅️ Back to Problems](../README.md)**
+<br/>
+
+*Happy Coding! 🚀*
+
+</div>
