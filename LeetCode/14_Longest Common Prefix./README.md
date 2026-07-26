@@ -1,74 +1,68 @@
-# 14. Longest Common Prefix
+<div align="center">
 
-**Difficulty:** 🟢 Easy
+# 🔍 Longest Common Prefix
 
-**Problem Link:** https://leetcode.com/problems/longest-common-prefix/
+[![LeetCode](https://img.shields.io/badge/LeetCode-014-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/problems/longest-common-prefix/)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-String%20%7C%20Trie-blue?style=for-the-badge)
+![Acceptance](https://img.shields.io/badge/Acceptance-~46%25-yellow?style=for-the-badge)
+
+🔗 [View on LeetCode](https://leetcode.com/problems/longest-common-prefix/)
+
+</div>
 
 ---
 
-## 📖 Problem Statement
+## 📋 Problem Statement
 
 Write a function to find the **longest common prefix** string amongst an array of strings.
 
-If there is no common prefix, return an empty string `""`.
+If there is **no common prefix**, return an empty string `""`.
 
 ---
 
-## 📝 Examples
+## 🧪 Examples
 
 ### Example 1
 
-**Input**
 ```text
-strs = ["flower","flow","flight"]
+Input:  strs = ["flower","flow","flight"]
+Output: "fl"
 ```
-
-**Output**
-```text
-"fl"
-```
-
----
 
 ### Example 2
 
-**Input**
 ```text
-strs = ["dog","racecar","car"]
-```
+Input:  strs = ["dog","racecar","car"]
+Output: ""
 
-**Output**
-```text
-""
-```
-
-**Explanation**
-
+Explanation:
 There is no common prefix among the input strings.
+```
 
 ---
 
-## 📌 Constraints
+## ⚙️ Constraints
 
-- `1 <= strs.length <= 200`
-- `0 <= strs[i].length <= 200`
-- `strs[i]` consists of only lowercase English letters if it is non-empty.
-
----
-
-## 💡 Approach
-
-- Compare characters of every string from left to right.
-- Stop when a mismatch is found or any string ends.
-- Return the matched prefix.
+| Constraint | Value |
+|---|---|
+| Number of Strings | `1 <= strs.length <= 200` |
+| String Length | `0 <= strs[i].length <= 200` |
+| Characters | `strs[i]` consists of only lowercase English letters if it is non-empty |
 
 ---
 
-## ⏱️ Complexity
+## 🏷️ Tags
 
-| Time | Space |
-|:----:|:-----:|
-| **O(n × m)** | **O(1)** |
+`String` &nbsp;&nbsp; `Trie` &nbsp;&nbsp; `Easy`
 
-> **n** = Number of strings  
-> **m** = Length of the shortest string
+---
+
+<div align="center">
+
+**[⬅️ Back to Problems](../README.md)**
+<br/>
+
+*Happy Coding! 🚀*
+
+</div>
