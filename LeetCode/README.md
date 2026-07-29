@@ -18,15 +18,15 @@
 
 | # | Problem | Difficulty | Topics | Folder |
 |---|---------|------------|--------|--------|
-| 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Array` `Hash Table` | [📁 01_Two Sum](./01_Two%20Sum/) |
-| 03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `String` `Sliding Window` | [📁 03_Longest Substring Without Repeating Characters](./03_Longest%20Substring%20Without%20Repeating%20Characters/) |
-| 06 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `String` | [📁 06_Zigzag Conversion](./06_Zigzag%20Conversion/) |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `String` `Trie` | [📁 14_Longest Common Prefix](./14_Longest%20Common%20Prefix/) |
-| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 39_Combination Sum](./39_Combination%20Sum/) |
-| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 40_Combination Sum II](./40_Combination%20Sum%20II/) |
-| 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 78_Subsets](./78_Subsets/) |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 90_Subsets II](./90_Subsets%20II/) |
-| 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 135_Candy](./135_Candy/) |
+| 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Array` `Hash Table` | [📁 0001_Two Sum](./0001_Two%20Sum/) |
+| 03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0003_Longest Substring Without Repeating Characters](./0003_Longest%20Substring%20Without%20Repeating%20Characters/) |
+| 06 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `String` | [📁 0006_Zigzag Conversion](./0006_Zigzag%20Conversion/) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `String` `Trie` | [📁 0014_Longest Common Prefix](./0014_Longest%20Common%20Prefix/) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0039_Combination Sum](./0039_Combination%20Sum/) |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0040_Combination Sum II](./0040_Combination%20Sum%20II/) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` | [📁 3760_Maximum Substrings With Distinct Start](./3760_Maximum%20Substrings%20With%20Distinct%20Start/) |
 
 ---
