@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-10-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-12-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -27,6 +27,8 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Array` | [📁 1752_Check if Array Is Sorted and Rotated](./1752_Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` | [📁 3760_Maximum Substrings With Distinct Start](./3760_Maximum%20Substrings%20With%20Distinct%20Start/) |
 
 ---
@@ -35,9 +37,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **10** |
-| 🟢 Easy | **2** |
-| 🟡 Medium | **7** |
+| ✅ Total Solved | **12** |
+| 🟢 Easy | **3** |
+| 🟡 Medium | **8** |
 | 🔴 Hard | **1** |
 
 ---
