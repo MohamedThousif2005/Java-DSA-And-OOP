@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-15-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-16-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -28,6 +28,7 @@
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
+| 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `String` `Prefix Sum` | [📁 0848_Shifting Letters](./0848_Shifting%20Letters/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Array` | [📁 1752_Check if Array Is Sorted and Rotated](./1752_Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Math` `String` `Sliding Window` | [📁 2269_Find the K-Beauty of a Number](./2269_Find%20the%20K-Beauty%20of%20a%20Number/) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `String` `Sliding Window` | [📁 2379_Minimum Recolors to Get K Consecutive Black Blocks](./2379_Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/) |
@@ -40,9 +41,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **15** |
+| ✅ Total Solved | **16** |
 | 🟢 Easy | **5** |
-| 🟡 Medium | **9** |
+| 🟡 Medium | **10** |
 | 🔴 Hard | **1** |
 
 ---
@@ -58,6 +59,7 @@
 `Greedy` &nbsp;
 `Trie` &nbsp;
 `Math` &nbsp;
+`Prefix Sum` &nbsp;
 `Counting` &nbsp;
 `Enumeration`
 
