@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-19-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-20-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -22,6 +22,7 @@
 | 03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0003_Longest Substring Without Repeating Characters](./0003_Longest%20Substring%20Without%20Repeating%20Characters/) |
 | 06 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `String` | [📁 0006_Zigzag Conversion](./0006_Zigzag%20Conversion/) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `String` `Trie` | [📁 0014_Longest Common Prefix](./0014_Longest%20Common%20Prefix/) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` | [📁 0034_Find First and Last Position of Element in Sorted Array](./0034_Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0039_Combination Sum](./0039_Combination%20Sum/) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0040_Combination Sum II](./0040_Combination%20Sum%20II/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
@@ -44,9 +45,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **19** |
+| ✅ Total Solved | **20** |
 | 🟢 Easy | **7** |
-| 🟡 Medium | **11** |
+| 🟡 Medium | **12** |
 | 🔴 Hard | **1** |
 
 ---
@@ -59,6 +60,7 @@
 `Sliding Window` &nbsp;
 `Backtracking` &nbsp;
 `Bit Manipulation` &nbsp;
+`Binary Search` &nbsp;
 `Greedy` &nbsp;
 `Trie` &nbsp;
 `Math` &nbsp;
