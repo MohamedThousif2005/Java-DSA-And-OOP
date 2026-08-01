@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-25-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-27-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -33,6 +33,8 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Two Pointers` `String` | [📁 0125_Valid Palindrome](./0125_Valid%20Palindrome/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Two Pointers` `String` | [📁 0151_Reverse Words in a String](./0151_Reverse%20Words%20in%20a%20String/) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` | [📁 0162_Find Peak Element](./0162_Find%20Peak%20Element/) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Math` `Two Pointers` | [📁 0189_Rotate Array](./0189_Rotate%20Array/) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Backtracking` `Bit Manipulation` `Enumeration` | [📁 0401_Binary Watch](./0401_Binary%20Watch/) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Bit Manipulation` | [📁 0461_Hamming Distance](./0461_Hamming%20Distance/) |
@@ -50,9 +52,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **25** |
+| ✅ Total Solved | **27** |
 | 🟢 Easy | **8** |
-| 🟡 Medium | **16** |
+| 🟡 Medium | **18** |
 | 🔴 Hard | **1** |
 
 ---
