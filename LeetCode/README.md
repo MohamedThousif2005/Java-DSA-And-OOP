@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-17-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-18-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -27,6 +27,7 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Backtracking` `Bit Manipulation` `Enumeration` | [📁 0401_Binary Watch](./0401_Binary%20Watch/) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Bit Manipulation` | [📁 0461_Hamming Distance](./0461_Hamming%20Distance/) |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `String` `Prefix Sum` | [📁 0848_Shifting Letters](./0848_Shifting%20Letters/) |
@@ -42,8 +43,8 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **17** |
-| 🟢 Easy | **6** |
+| ✅ Total Solved | **18** |
+| 🟢 Easy | **7** |
 | 🟡 Medium | **10** |
 | 🔴 Hard | **1** |
 
