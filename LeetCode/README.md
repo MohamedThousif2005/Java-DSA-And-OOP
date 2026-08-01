@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-23-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-25-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -30,7 +30,9 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Tree` `Breadth-First Search` `Binary Tree` | [📁 0102_Binary Tree Level Order Traversal](./0102_Binary%20Tree%20Level%20Order%20Traversal/) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Two Pointers` `String` | [📁 0125_Valid Palindrome](./0125_Valid%20Palindrome/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Two Pointers` `String` | [📁 0151_Reverse Words in a String](./0151_Reverse%20Words%20in%20a%20String/) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Backtracking` `Bit Manipulation` `Enumeration` | [📁 0401_Binary Watch](./0401_Binary%20Watch/) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Bit Manipulation` | [📁 0461_Hamming Distance](./0461_Hamming%20Distance/) |
@@ -48,9 +50,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **23** |
-| 🟢 Easy | **7** |
-| 🟡 Medium | **15** |
+| ✅ Total Solved | **25** |
+| 🟢 Easy | **8** |
+| 🟡 Medium | **16** |
 | 🔴 Hard | **1** |
 
 ---
@@ -61,6 +63,7 @@
 `Hash Table` &nbsp;
 `String` &nbsp;
 `Sliding Window` &nbsp;
+`Two Pointers` &nbsp;
 `Backtracking` &nbsp;
 `Bit Manipulation` &nbsp;
 `Binary Search` &nbsp;
