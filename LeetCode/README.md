@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-20-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-22-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -25,6 +25,8 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` | [📁 0034_Find First and Last Position of Element in Sorted Array](./0034_Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0039_Combination Sum](./0039_Combination%20Sum/) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0040_Combination Sum II](./0040_Combination%20Sum%20II/) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Dynamic Programming` `Math` `Combinatorics` | [📁 0062_Unique Paths](./0062_Unique%20Paths/) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` `Matrix` | [📁 0074_Search a 2D Matrix](./0074_Search%20a%202D%20Matrix/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
@@ -45,9 +47,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **20** |
+| ✅ Total Solved | **22** |
 | 🟢 Easy | **7** |
-| 🟡 Medium | **12** |
+| 🟡 Medium | **14** |
 | 🔴 Hard | **1** |
 
 ---
@@ -61,10 +63,13 @@
 `Backtracking` &nbsp;
 `Bit Manipulation` &nbsp;
 `Binary Search` &nbsp;
+`Dynamic Programming` &nbsp;
 `Greedy` &nbsp;
 `Trie` &nbsp;
 `Math` &nbsp;
+`Matrix` &nbsp;
 `Prefix Sum` &nbsp;
+`Combinatorics` &nbsp;
 `Counting` &nbsp;
 `Enumeration`
 
