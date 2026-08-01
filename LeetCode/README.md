@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-22-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-23-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -29,6 +29,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` `Matrix` | [📁 0074_Search a 2D Matrix](./0074_Search%20a%202D%20Matrix/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0090_Subsets II](./0090_Subsets%20II/) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Tree` `Breadth-First Search` `Binary Tree` | [📁 0102_Binary Tree Level Order Traversal](./0102_Binary%20Tree%20Level%20Order%20Traversal/) |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Backtracking` `Bit Manipulation` `Enumeration` | [📁 0401_Binary Watch](./0401_Binary%20Watch/) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
@@ -47,9 +48,9 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **22** |
+| ✅ Total Solved | **23** |
 | 🟢 Easy | **7** |
-| 🟡 Medium | **14** |
+| 🟡 Medium | **15** |
 | 🔴 Hard | **1** |
 
 ---
@@ -68,6 +69,9 @@
 `Trie` &nbsp;
 `Math` &nbsp;
 `Matrix` &nbsp;
+`Tree` &nbsp;
+`Breadth-First Search` &nbsp;
+`Binary Tree` &nbsp;
 `Prefix Sum` &nbsp;
 `Combinatorics` &nbsp;
 `Counting` &nbsp;
