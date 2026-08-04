@@ -3,7 +3,7 @@
 # 🧠 LeetCode Solutions
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-27-blueviolet?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-30-blueviolet?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/LeetCode-MohamedThousif2005-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 *A structured collection of LeetCode problem descriptions & Java solutions.*
@@ -25,6 +25,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` | [📁 0034_Find First and Last Position of Element in Sorted Array](./0034_Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0039_Combination Sum](./0039_Combination%20Sum/) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` | [📁 0040_Combination Sum II](./0040_Combination%20Sum%20II/) |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Math` `Recursion` `Combinatorics` | [📁 0060_Permutation Sequence](./0060_Permutation%20Sequence/) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Dynamic Programming` `Math` `Combinatorics` | [📁 0062_Unique Paths](./0062_Unique%20Paths/) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` `Matrix` | [📁 0074_Search a 2D Matrix](./0074_Search%20a%202D%20Matrix/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Backtracking` `Bit Manipulation` | [📁 0078_Subsets](./0078_Subsets/) |
@@ -34,11 +35,13 @@
 | 135 | [Candy](https://leetcode.com/problems/candy/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | `Array` `Greedy` | [📁 0135_Candy](./0135_Candy/) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Two Pointers` `String` | [📁 0151_Reverse Words in a String](./0151_Reverse%20Words%20in%20a%20String/) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Binary Search` | [📁 0162_Find Peak Element](./0162_Find%20Peak%20Element/) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Two Pointers` `Binary Search` | [📁 0167_Two Sum II - Input Array Is Sorted](./0167_Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Math` `Two Pointers` | [📁 0189_Rotate Array](./0189_Rotate%20Array/) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Backtracking` `Bit Manipulation` `Enumeration` | [📁 0401_Binary Watch](./0401_Binary%20Watch/) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Hash Table` `String` `Sliding Window` | [📁 0438_Find All Anagrams in a String](./0438_Find%20All%20Anagrams%20in%20a%20String/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Bit Manipulation` | [📁 0461_Hamming Distance](./0461_Hamming%20Distance/) |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `String` `Prefix Sum` | [📁 0848_Shifting Letters](./0848_Shifting%20Letters/) |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | ![Medium](https://img.shields.io/badge/-Medium-orange?style=flat-square) | `Array` `Math` `Dynamic Programming` `Game Theory` | [📁 0877_Stone Game](./0877_Stone%20Game/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Array` | [📁 1752_Check if Array Is Sorted and Rotated](./1752_Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `Math` `String` `Sliding Window` | [📁 2269_Find the K-Beauty of a Number](./2269_Find%20the%20K-Beauty%20of%20a%20Number/) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | `String` `Sliding Window` | [📁 2379_Minimum Recolors to Get K Consecutive Black Blocks](./2379_Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/) |
@@ -52,10 +55,10 @@
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | **27** |
+| ✅ Total Solved | **30** |
 | 🟢 Easy | **8** |
-| 🟡 Medium | **18** |
-| 🔴 Hard | **1** |
+| 🟡 Medium | **19** |
+| 🔴 Hard | **3** |
 
 ---
 
@@ -79,6 +82,8 @@
 `Binary Tree` &nbsp;
 `Prefix Sum` &nbsp;
 `Combinatorics` &nbsp;
+`Recursion` &nbsp;
+`Game Theory` &nbsp;
 `Counting` &nbsp;
 `Enumeration`
 
